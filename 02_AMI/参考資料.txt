@@ -1,0 +1,5 @@
+参照先
+https://github.com/harunobukameda/EC2-Image-Builder/blob/main/EC2%20Image%20Builder%20Workshop.pdf
+
+AMIを使った自動構築
+
